@@ -1,4 +1,4 @@
-// package com.mycompany.encryption;
+package com.mycompany.encryption;
 import java.util.Arrays;
 
 /**
